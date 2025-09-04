@@ -47,7 +47,7 @@ OpenPyXL
 
 ---
 
-⚖️ Compliance & Purpose
+## ⚖️ Compliance & Purpose
 
 Educational/demo purposes only.
 
