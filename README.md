@@ -48,8 +48,11 @@ OpenPyXL
 ---
 
 ⚖️ Compliance & Purpose
+
 Educational/demo purposes only.
+
 Uses only public sitemaps, respecting robots.txt rules.
+
 Safe and professional example of a web scraping workflow.
 
 ---
