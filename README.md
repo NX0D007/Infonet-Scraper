@@ -28,14 +28,14 @@ A lightweight Python scraper that collects company profile URLs from Infonet.fr 
 2. Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt```
+```
 Run the scraper:
-
-bash
+```bash
 Copy code
 python infonet_sitemap_scraper.py
 Output: infonet_sitemap_results.xlsx with all collected company URLs.
-
+```
 🧪 Built With
 Python 3.10+
 Requests
