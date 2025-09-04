@@ -32,10 +32,12 @@ pip install -r requirements.txt```
 ```
 Run the scraper:
 ```bash
-Copy code
+Copy code:
 python infonet_sitemap_scraper.py
 Output: infonet_sitemap_results.xlsx with all collected company URLs.
 ```
+---
+
 🧪 Built With
 Python 3.10+
 Requests
@@ -43,15 +45,21 @@ BeautifulSoup4
 Pandas
 OpenPyXL
 
+---
+
 ⚖️ Compliance & Purpose
 Educational/demo purposes only.
-
 Uses only public sitemaps, respecting robots.txt rules.
-
 Safe and professional example of a web scraping workflow.
 
-🤝 Credits
-Developed by @NX0D007 (N. Lakhnech)
+---
 
-📬 Want to contribute?
+## 🤝 Credits
+
+Developed by [@nX0D007 (N. Lakhnech)](https://www.linkedin.com/in/n-lakhnech)
+
+---
+
+## 📬 Want to contribute?
+
 Open to suggestions or feature requests — feel free to fork or contact me on LinkedIn.
