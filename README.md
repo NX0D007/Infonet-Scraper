@@ -15,11 +15,3 @@ This project is **educational/demo only** and fully compliant with robots.txt.
 Install dependencies:
 ```bash
 pip install -r requirements.txt
-
----
-
-## 🤝 Credits
-
-Developed by [@nX0D007 (N. Lakhnech)](https://www.linkedin.com/in/n-lakhnech)
-
----
