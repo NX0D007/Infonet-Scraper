@@ -38,12 +38,12 @@ Output: infonet_sitemap_results.xlsx with all collected company URLs.
 ```
 ---
 
-🧪 Built With
-Python 3.10+
-Requests
-BeautifulSoup4
-Pandas
-OpenPyXL
+## 🧪 Built With
+- Python 3.10+
+- Requests
+- BeautifulSoup4
+- Pandas
+- OpenPyXL
 
 ---
 
