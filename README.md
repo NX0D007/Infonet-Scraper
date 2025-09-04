@@ -1,17 +1,57 @@
-# Infonet Sitemap Scraper
+# 🔍 Infonet Sitemap Scraper – Python Demo
 
-Python scraper for collecting company profiles from Infonet.fr sitemaps.  
-This project is **educational/demo only** and fully compliant with robots.txt.
+A lightweight Python scraper that collects company profile URLs from Infonet.fr **public sitemaps** — fully compliant and safe for educational/demo purposes.
 
-## Features
-- Collects company URLs from publicly available sitemaps.
-- Extracts company names and profile URLs.
-- Saves results to Excel for easy analysis.
+---
 
-## Requirements
-- Python 3.10+
-- `requests`, `beautifulsoup4`, `pandas`, `openpyxl`
+## ✨ Features
 
-Install dependencies:
+- 📄 Fetches company URLs from **Infonet public sitemaps**.  
+- 💾 Saves results directly to **Excel** (`infonet_sitemap_results.xlsx`).  
+- ✅ Fully compliant with **robots.txt** — does not scrape disallowed pages.  
+- 🐍 Demonstrates Python skills: requests, BeautifulSoup, and data export.  
+- ⚡ Lightweight and easy to run for learning or demo purposes.
+
+---
+
+## 🎯 Who is this for?
+
+- Python learners exploring **web scraping**.  
+- Data enthusiasts practicing **XML parsing and Excel export**.  
+- Professionals wanting a **safe demo of web scraping workflow**.
+
+---
+
+## 🛠 How to Use
+
+1. Clone or download the repo.  
+2. Install dependencies:
+
 ```bash
 pip install -r requirements.txt
+Run the scraper:
+
+bash
+Copy code
+python infonet_sitemap_scraper.py
+Output: infonet_sitemap_results.xlsx with all collected company URLs.
+
+🧪 Built With
+Python 3.10+
+Requests
+BeautifulSoup4
+Pandas
+OpenPyXL
+
+⚖️ Compliance & Purpose
+Educational/demo purposes only.
+
+Uses only public sitemaps, respecting robots.txt rules.
+
+Safe and professional example of a web scraping workflow.
+
+🤝 Credits
+Developed by @NX0D007 (N. Lakhnech)
+
+📬 Want to contribute?
+Open to suggestions or feature requests — feel free to fork or contact me on LinkedIn.
